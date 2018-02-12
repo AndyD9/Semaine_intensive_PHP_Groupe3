@@ -1,7 +1,7 @@
 # Semaine_intensive_PHP_Groupe3
 
 
-### Site de partage de photo (
+### Site de partage de photo professionel (
 
 - Possibilité d'ajouter des photos.
 - Thème: Mannequin
@@ -14,3 +14,9 @@
 
 - Pleins de photo aléatoire
 - Obligation de se connecter
+
+# Fonctionnalités :
+
+- Hover sur les images (Shooting by :, Model:, Aller sur le profile)
+- Possiblité de likes
+- 5/10 % de marges
