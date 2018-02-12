@@ -32,19 +32,19 @@
 ### Gestion des Tâches :
 
 Billal Ouaali :
-12/02/2017 :
+- 12/02/2017 :
 
 
 BLANDFORD Alex :
-12/02/2017 :
+- 12/02/2017 :
 
 
 Co Kim Le Jonathan : 
-12/02/2017 :
+- 12/02/2017 :
 
 
 DODAKAL Andy :
-12/02/2017 :
+- 12/02/2017 :
 
 
 
