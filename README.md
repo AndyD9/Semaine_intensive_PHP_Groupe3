@@ -1,7 +1,7 @@
 # Semaine_intensive_PHP_Groupe3
 
 
-# Site de partage de photo professionel 
+# Site de partage de photo professionel
 
 - Possibilité d'ajouter des photos.
 - Thème: Mannequin
@@ -14,7 +14,7 @@
 
 - Obligation de se connecter
   * Puis affichage des photos
-  
+
   #### Barre de Navigation
       * Barre de recherche,
       * Profil (Avec menu déroulant)
@@ -41,16 +41,17 @@ BLANDFORD Alex :
   * Codage Page de connexion
 
 
-Co Kim Le Jonathan : 
+Co Kim Le Jonathan :
 - 12/02/2017 :
-  * 
+  *
 
 
 DODAKAL Andy :
 - 12/02/2017 :
   * Wireframe
-  
 
 
 
 
+
+https://www.znetlive.com/blog/how-to-install-apache-php-and-mysql-on-windows-10-machine/
