@@ -14,7 +14,8 @@
 
 - Obligation de se connecter
   * Puis affichage des photos
-  - Barre de Navigation
+  
+  #### Barre de Navigation
       * Barre de recherche,
       * Profil (Avec menu déroulant)
       * Logo du site
