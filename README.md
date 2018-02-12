@@ -10,16 +10,21 @@
 - Modal Photo
 
 
-## Landing Page 
+## Home Page
 
-- Pleins de photo aléatoire
 - Obligation de se connecter
+  * Puis affichage des photos
+  - Barre de Navigation
+      * Barre de recherche,
+      * Profil (Avec menu déroulant)
+      * Logo du site
 
 ## Fonctionnalités :
 
 - Hover sur les images (Shooting by :, Model:, Aller sur le profile)
 - Possiblité de Favoris
 - 5/10 % de marges
+
 
 
 ### Gestion des Tâches :
