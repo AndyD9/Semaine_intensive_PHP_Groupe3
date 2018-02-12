@@ -20,3 +20,20 @@
 - Hover sur les images (Shooting by :, Model:, Aller sur le profile)
 - Possiblité de Favoris
 - 5/10 % de marges
+
+
+### Gestion des Tâches :
+
+Billal Ouaali :
+
+
+BLANDFORD Alex :
+
+
+Co Kim Le Jonathan : 
+
+
+DODAKAL Andy : 
+
+
+
