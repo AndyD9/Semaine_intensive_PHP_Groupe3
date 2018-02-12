@@ -33,7 +33,7 @@
 
 Billal Ouaali :
 - 12/02/2017 :
- * CHarte Graphique
+  * CHarte Graphique
 
 
 BLANDFORD Alex :
