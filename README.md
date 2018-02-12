@@ -33,18 +33,23 @@
 
 Billal Ouaali :
 - 12/02/2017 :
+ * CHarte Graphique
 
 
 BLANDFORD Alex :
 - 12/02/2017 :
+  * Codage Page de connexion
 
 
 Co Kim Le Jonathan : 
 - 12/02/2017 :
+  * 
 
 
 DODAKAL Andy :
 - 12/02/2017 :
+  * Wireframe
+  
 
 
 
