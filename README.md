@@ -25,6 +25,7 @@
 - Hover sur les images (Shooting by :, Model:, Aller sur le profile)
 - Possiblité de Favoris
 - 5/10 % de marges
+- Les images affichées auront 2 tailles prédéfinis, pour la fonction portrait ou paysage.
 
 
 
