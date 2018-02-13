@@ -32,24 +32,26 @@
 ### Gestion des Tâches :
 
 Billal Ouaali :
-- 12/02/2017 :
+**- 12/02/2017 :**
   * CHarte Graphique
+**- 13/02/2017 :**
 
 
 BLANDFORD Alex :
-- 12/02/2017 :
-  * Codage Page de connexion
-
+**- 12/02/2017 :**
+  * Intégration Page de connexion
+**- 13/02/2017 :**
 
 Co Kim Le Jonathan :
-- 12/02/2017 :
-  *
-
+**- 12/02/2017 :**
+  * Base de Donnée (Structure)
+**- 13/02/2017 :**
 
 DODAKAL Andy :
-- 12/02/2017 :
-  * Wireframe
-
+** - 12/02/2017 : **
+   * Base de Donnée (Structure)
+**- 13/02/2017 :**
+ 
 
 # Installation PHP/Apache/MySQL : Done :)
 
