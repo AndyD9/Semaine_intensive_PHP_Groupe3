@@ -24,7 +24,7 @@
           <input type="password" placeholder="Password">
         </div>
         <div class="login-btn">
-          <a href="#">Sign in</a>
+          <a href="assets/HTML/mainPage.php">Sign in</a>
         </div>
         <div class="login-other">
           <p>Or</p>
@@ -41,6 +41,28 @@
           </div>
           <a href="#">Continue with google</a>
         </div>
+    </div>
+  </div>
+  <div class="signUp-overlay">
+    <div class="signUp-container">
+        <div class="signUp-title">
+          <h2>SignUp</h2>
+        </div>
+        <div class="signUp-name">
+          <h3>Enter your name</h3>
+          <input type="text" placeholder="Name" required>
+        </div>
+        <div class="signUp-lastName">
+          <h3>Enter your lastname</h3>
+          <input type="text" placeholder="Lastname" required>
+        </div>
+        <div class="signUp-email">
+          <h3>enter your emaail</h3>
+          <input type="email" placeholder="example@email.com" required>
+        </div>
+        <div class="signUp-submit">
+          <input type="submit" value="submit">
+      </div>
     </div>
   </div>
 </body>
