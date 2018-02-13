@@ -31,24 +31,24 @@
 
 ### Gestion des Tâches :
 
-Billal Ouaali :
+__Billal Ouaali__ :
 **- 12/02/2017 :**
   * CHarte Graphique
 **- 13/02/2017 :**
 
 
-BLANDFORD Alex :
+__BLANDFORD Alex__ :
 **- 12/02/2017 :**
   * Intégration Page de connexion
 **- 13/02/2017 :**
 
-Co Kim Le Jonathan :
+__Co Kim Le Jonathan__ :
 **- 12/02/2017 :**
   * Base de Donnée (Structure)
 **- 13/02/2017 :**
 
-DODAKAL Andy :
-** - 12/02/2017 : **
+__DODAKAL Andy__ :
+**- 12/02/2017 :**
    * Base de Donnée (Structure)
 **- 13/02/2017 :**
  
