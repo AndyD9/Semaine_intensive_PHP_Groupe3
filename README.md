@@ -31,25 +31,25 @@
 
 ### Gestion des Tâches :
 
-__Billal Ouaali__ :
+Billal Ouaali :
 **12/02/2017 :** 
 - Brain Storming
 **13/02/2017 :**
 
 
-__BLANDFORD Alex__ :
+BLANDFORD Alex :
 **12/02/2017 :** 
 - Intégration Page de connexion
 **13/02/2017 :**
 
 
-__Co Kim Le Jonathan__ :
+Co Kim Le Jonathan:
 **12/02/2017 :** 
 - Brain Storming
 **13/02/2017 :** 
 - Base de Donnée (Structure)
 
-__DODAKAL Andy__ :
+DODAKAL Andy:
 **12/02/2017 :** 
 - Brain Storming
 **13/02/2017 :**
