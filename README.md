@@ -4,7 +4,6 @@
 # Site de partage de photo professionel
 
 - Possibilité d'ajouter des photos.
-- Thème: Mannequin
 - Décourvrir des photos.
 - Photo semipro/Professionnel
 - Modal Photo
