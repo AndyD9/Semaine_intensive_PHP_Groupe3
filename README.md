@@ -32,28 +32,28 @@
 ### Gestion des Tâches :
 
 Billal Ouaali :
-12/02/2017 :
+Date : 12/02/2017 :
 - Brain Storming
-13/02/2017 :
+Date : 13/02/2017 :
 
 
 BLANDFORD Alex :
-12/02/2017 : 
+Date : 12/02/2017 : 
 - Intégration Page de connexion
-13/02/2017 :
+Date : 13/02/2017 :
 
 
 Co Kim Le Jonathan:
-12/02/2017 :
+Date : 12/02/2017 :
 - Brain Storming
-13/02/2017 :
+Date : 13/02/2017 :
 - Base de Donnée (Structure)
 
 DODAKAL Andy:
-12/02/2017 :
-- Brain Storming
-13/02/2017 :
-- Base de Donnée (Structure)
+Date : 12/02/2017 :
+ - Brain Storming
+Date: 13/02/2017 :
+ - Base de Donnée (Structure)
  
 
 # Installation PHP/Apache/MySQL : Done :)
