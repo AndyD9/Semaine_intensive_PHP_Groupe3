@@ -33,24 +33,24 @@
 
 __Billal Ouaali__ :
 **- 12/02/2017 :**
-  * CHarte Graphique
+  * - Brain Storming
 **- 13/02/2017 :**
 
 
 __BLANDFORD Alex__ :
 **- 12/02/2017 :**
-  * Intégration Page de connexion
+  - Intégration Page de connexion
 **- 13/02/2017 :**
 
 __Co Kim Le Jonathan__ :
 **- 12/02/2017 :**
-  * Base de Donnée (Structure)
+  - Brain Storming
 **- 13/02/2017 :**
   * Base de Donnée (Structure)
 
 __DODAKAL Andy__ :
 **- 12/02/2017 :**
-   * Base de Donnée (Structure)
+   - Brain Storming
 **- 13/02/2017 :**
    * Base de Donnée (Structure)
  
