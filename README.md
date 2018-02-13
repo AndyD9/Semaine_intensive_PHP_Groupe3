@@ -46,11 +46,13 @@ __Co Kim Le Jonathan__ :
 **- 12/02/2017 :**
   * Base de Donnée (Structure)
 **- 13/02/2017 :**
+  * Base de Donnée (Structure)
 
 __DODAKAL Andy__ :
 **- 12/02/2017 :**
    * Base de Donnée (Structure)
 **- 13/02/2017 :**
+   * Base de Donnée (Structure)
  
 
 # Installation PHP/Apache/MySQL : Done :)
