@@ -42,7 +42,7 @@
 ## BLANDFORD Alex :
 
 **12/02/2017 :**
- - Intégration Page de connexion
+ - Intégration Page de connexion       FAIT
 
 **13/02/2017 :**
 
