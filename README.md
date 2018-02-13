@@ -66,6 +66,18 @@
 
 # Installation PHP/Apache/MySQL : Done :)
 
+### Fonction nécessaire :
+
+ - Connexion.php (Fait)
+ - Deconnexion.php (A Faire)
+ - Login.php ( A faire)
+ - Inscription.php ( A faire)
+ - AddImg.php ( a Faire)
+ - Delete.php (A Faire)
+ - AddPfp.php (A faire)
+ - AddFav.php (A Faire )
+ - RemoveFav.php (A Faire)
+ 
 
 
 https://www.znetlive.com/blog/how-to-install-apache-php-and-mysql-on-windows-10-machine/
