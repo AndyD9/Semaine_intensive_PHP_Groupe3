@@ -94,9 +94,15 @@ body {
   text-decoration: none;
 }
 
+.login-signUp {
+  text-align: center;
+  font-size: 2.5rem;
+  cursor: pointer;
+}
+
 
 .signUp-overlay {
-  display: block;
+  display: none;
   position: fixed;
   top: 0;
   right: 0;

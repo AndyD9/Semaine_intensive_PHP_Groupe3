@@ -41,6 +41,9 @@
           </div>
           <a href="#">Continue with google</a>
         </div>
+        <div class="login-signUp">
+          <h3>Sign up</h3>
+        </div>
     </div>
   </div>
   <div class="signUp-overlay">
@@ -65,5 +68,7 @@
       </div>
     </div>
   </div>
+
+  <script src="assets/js/main.js" charset="utf-8"></script>
 </body>
 </html>
