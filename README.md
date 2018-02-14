@@ -1,7 +1,7 @@
 # Semaine_intensive_PHP_Groupe3
 
 
-# Just Pics
+# Just Pixs
 
 - Possibilité d'ajouter des photos.
 - Décourvrir des photos.
