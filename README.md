@@ -1,7 +1,7 @@
 # Semaine_intensive_PHP_Groupe3
 
 
-# Site de partage de photo professionel
+# Just Pics
 
 - Possibilité d'ajouter des photos.
 - Décourvrir des photos.
