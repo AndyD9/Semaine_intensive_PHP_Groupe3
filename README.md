@@ -68,10 +68,10 @@
 ### Fonction nécessaire :
 
  - Connexion.php (Fait)
- - Deconnexion.php (A Faire)
- - Login.php ( A faire)
+ - Deconnexion.php (Fait)
+ - Login.php (Fait)
  - Inscription.php ( A faire)
- - AddImg.php ( a Faire)
+ - AddImg.php (Fait)
  - Delete.php (A Faire)
  - AddPfp.php (A faire)
  - AddFav.php (A Faire )
