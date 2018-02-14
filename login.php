@@ -1,3 +1,11 @@
+
+<?php
+session_start();
+$con  = mysqli_connect("localhost","root","root","g3");
+if (!$con){
+    die("Connection Failed : " . mysqli_connect_errno());
+}
+?>
 <html>
 <head>
   <meta charset="UTF-8">
@@ -9,8 +17,76 @@
   <title>RANDOM IMG</title>
 </head>
 <body>
+<?php
+$email = $password = $error = "";
+$errorflag = false;
+
+$erroremail = "<h3 class='erroremail'>Email Required...!</h3>";
+$errorpassword = "<h3 class='errorpassword'>Password Required...!</h3>";
+
+if (isset($_POST["submit"])){
+    if (empty($_POST["email"])){
+        echo $erroremail;
+        $errorflag = false;
+    }elseif (!filter_var($_POST["email"],FILTER_VALIDATE_EMAIL)){
+        $erroremail = "<h3 class='erroremail'>Invalid Email...!</h3>";
+        echo $erroremail;
+        $errorflag = false;
+    }else{
+        $email = validation_input($_POST["email"]);
+        $errorflag = true;
+    }
+
+    if (empty($_POST["password"])){
+        echo $errorpassword;
+        $errorflag = false;
+    }else{
+
+        $len = strlen($_POST["password"]);
+        if ($len > 15 || $len < 3){
+            $errorpassword = "<h3 class='errorpassword'>Password Must Between 3 to 15 Characters</h3>";
+            echo $errorpassword;
+            $errorflag= false;
+        }else{
+            $password = validation_input($_POST["password"]);
+            $errorflag = true;
+        }
+    }
+
+
+    if ($errorflag = true){
+
+        $query = "SELECT * FROM users WHERE mail = '$_POST[email]' AND password = '$_POST[password]'";
+        $result = mysqli_query($con,$query);
+        $row = mysqli_fetch_array($result);
+        if ($row > 0){
+            $_SESSION["user_id"] = $row["id"];
+            $home_url = 'http://' . $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']) . '/assets/HTML/mainPage.php';
+            header('Location: '. $home_url);
+        }else {
+            $error = "Username or Password Not Match...!";
+
+        }
+
+    }
+
+
+
+}
+
+
+function validation_input($data){
+    $data = trim($data);
+    $data = stripcslashes($data);
+    $data = htmlspecialchars($data);
+    return $data;
+}
+
+
+?>
   <div class="loginPage-container">
     <div class="login-container">
+        <form action="login.php" method="post">
       <div class="login-logo">
 
       </div>
@@ -18,14 +94,15 @@
           <h2>Welcome to Mynd</h2>
         </div>
         <div class="login-email">
-          <input type="email" placeholder="E-mail">
+          <input type="email" name="email" placeholder="E-mail">
         </div>
         <div class="login-password">
-          <input type="password" placeholder="Password">
+          <input type="password" name="password" placeholder="Password">
         </div>
         <div class="login-btn">
-          <a href="assets/HTML/mainPage.php">Sign in</a>
+            <input type="submit" id="sub" name="submit" value="Sign In">
         </div>
+        <span class="messageError" style="color: red"><?php echo $error; ?></span>
         <div class="login-other">
           <p>Or</p>
         </div>
@@ -44,6 +121,7 @@
         <div class="login-signUp">
           <h3>Sign up</h3>
         </div>
+        </form>
     </div>
   </div>
   <div class="signUp-overlay">
@@ -66,6 +144,7 @@
         <div class="signUp-submit">
           <input type="submit" value="submit">
       </div>
+
     </div>
   </div>
 
