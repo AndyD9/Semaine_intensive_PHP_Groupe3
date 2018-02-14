@@ -67,13 +67,13 @@
 
 ### Fonction nécessaire :
 
- - Connexion.php (Fait)
+ - Connexion.php (Fait) Create
  - Deconnexion.php (Fait)
  - Login.php (Fait)
  - Inscription.php ( A faire)
- - AddImg.php (Fait)
- - Delete.php (A Faire)
- - AddPfp.php (A faire)
+ - AddImg.php (Fait) Create Read
+ - Delete.php (A Faire) Delete
+ - AddPfp.php (A faire) Update
  - AddFav.php (A Faire )
  - RemoveFav.php (A Faire)
  
