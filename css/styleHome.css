@@ -1,0 +1,236 @@
+html {
+  font-size: 62.5%;
+}
+body {
+  font-family: 'Catamaran', sans-serif;
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.header-logoCcontainer:hover {
+  cursor: pointer;
+}
+
+.header-searchBar input {
+  padding: 0.5rem 0.4rem;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.header-upload {
+  cursor: pointer;
+}
+
+.header-library a {
+  color: black;
+  text-decoration: none;
+}
+
+.header-profilePicture div {
+  height: 4rem;
+  width: 4rem;
+  background: black;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.main-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 4rem;
+}
+
+span {
+  height: 1px;
+  width: 25%;
+  background: black;
+}
+
+.img-container {
+  position: relative;
+  display: inline-block;
+  width: 33%;
+}
+
+.img-150-300 {
+  height: 255px;
+  border: 1px solid black;
+}
+.imghover:hover {
+  opacity: 1;
+}
+
+.imghover {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: 0.5s;
+  background: rgba(0,0,0,0.2);
+}
+
+.img-150-300 img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+.upload-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: #FFF;
+  z-index: 100;
+}
+
+.upload-container {
+  margin: 0 auto;
+  position: relative;
+  top: 0;
+  width: 80%;
+  transform: translateX(-50%);
+  transform: translateY(50%);
+}
+
+.upload-close-overlay {
+  position: absolute;
+  top: 10%;
+  left: 70%;
+  cursor: pointer;
+}
+
+.upload-title, .upload-tags, .upload-picture, .upload-submit {
+  text-align: center;
+  margin-bottom: 3rem;
+  font-size: 2rem;
+}
+
+.upload-title input, .upload-tags input, .upload-picture input {
+  margin-top:  2rem;
+  padding: 0.2rem 2rem 1.5rem .3rem;
+}
+
+.profile-close-overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+}
+
+.profil-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0,0,0,0.5);
+  z-index: 100;
+}
+
+.profil-container {
+  position: fixed;
+  border-radius: 17px;
+  top: 15%;
+  right: 15%;
+  bottom: 15%;
+  left: 15%;
+  background: #FFF;
+  z-index: 100;
+}
+
+.profile-picture {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.aaa {
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+  background: black;
+  margin:  0 auto;
+}
+
+.profil-name {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  margin-left: .4rem;
+  line-height: .5;
+  margin-top: 4rem;
+}
+
+.profil-name div {
+  width: 100%;
+}
+
+.profil-name p {
+  text-align: center;
+  margin: auto;
+  font-size: 2rem;
+}
+
+.profil-name h2 {
+}
+
+.profil-name-title p {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.profil-email {
+  text-align: center;
+}
+
+.profil-logOut {
+  margin: 0 auto;
+  width: 50%;
+  margin-top: 1rem;
+}
+
+.profil-logOut-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  height: 3rem;
+  width: 5rem;
+  background: #ED1630;
+  color: #fff;
+}
+
+.edit {
+  font-size: 1.5rem;
+  color: #4A90E2;
+}
+
+.edit-profilePicture {
+  margin: 0 auto;
+}
+
+@media only screen and (min-width: 1440px) {
+  .profile-info-container {
+    margin: 0 auto;
+  }
+  .profil-container {
+    top: 10%;
+    right: 35%;
+    bottom: 50%;
+    left: 35%;
+  }
+}
