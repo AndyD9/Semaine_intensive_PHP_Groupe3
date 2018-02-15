@@ -1,12 +1,12 @@
 # Semaine_intensive_PHP_Groupe3
 
 
-# Just Pixs
+# Just Pix
 
 - Possibilité d'ajouter des photos.
-- Décourvrir des photos.
+- Découvrir des photos.
 - Photo semipro/Professionnel
-- Modal Photo
+
 
 
 ## Home Page
@@ -21,10 +21,10 @@
 
 ## Fonctionnalités :
 
-- Hover sur les images (Shooting by :, Model:, Aller sur le profile)
+- Hover sur les images 
 - Possiblité de Favoris
 - 5/10 % de marges
-- Les images affichées auront 2 tailles prédéfinis, pour la fonction portrait ou paysage.
+
 
 
 
@@ -34,6 +34,7 @@
 
 **12/02/2017 :**
  - Brain Storming
+ - Charte Graphique
  
 **13/02/2017 :**
 
@@ -63,19 +64,21 @@
  - Base de Donnée (Structure)
  
 
-# Installation PHP/Apache/MySQL : Done :)
+# Installation PHP/Apache/MySQL : Done :) #NoNeedWamp
 
 ### Fonction nécessaire :
 
  - Connexion.php (Fait) Create
  - Deconnexion.php (Fait)
  - Login.php (Fait)
- - Inscription.php ( A faire)
+ - Inscription.php (Fait)
  - AddImg.php (Fait) Create Read
  - Delete.php (A Faire) Delete
  - AddPfp.php (A faire) Update
  - AddFav.php (A Faire )
  - RemoveFav.php (A Faire)
+ - Update.php (Fait)
+ 
  
  
  ## Site Map 
