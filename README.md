@@ -77,6 +77,11 @@
  - AddFav.php (A Faire )
  - RemoveFav.php (A Faire)
  
+ 
+ ## Site Map 
+ 
+ ![alt tag](https://image.noelshack.com/fichiers/2018/07/4/1518705840-untitled-diagram.png)
+ 
 
 
 https://www.znetlive.com/blog/how-to-install-apache-php-and-mysql-on-windows-10-machine/
