@@ -6,7 +6,7 @@
 - Possibilité d'ajouter des photos.
 - Découvrir des photos.
 - Photo semipro/Professionnel
-- Modal Photo
+
 
 
 ## Home Page
@@ -64,7 +64,7 @@
  - Base de Donnée (Structure)
  
 
-# Installation PHP/Apache/MySQL : Done :)
+# Installation PHP/Apache/MySQL : Done :) #NoNeedWamp
 
 ### Fonction nécessaire :
 
