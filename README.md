@@ -1,10 +1,10 @@
 # Semaine_intensive_PHP_Groupe3
 
 
-# Just Pixs
+# Just Pix
 
 - Possibilité d'ajouter des photos.
-- Décourvrir des photos.
+- Découvrir des photos.
 - Photo semipro/Professionnel
 - Modal Photo
 
@@ -34,6 +34,7 @@
 
 **12/02/2017 :**
  - Brain Storming
+ - Charte Graphique
  
 **13/02/2017 :**
 
