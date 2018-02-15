@@ -21,10 +21,10 @@
 
 ## Fonctionnalités :
 
-- Hover sur les images (Shooting by :, Model:, Aller sur le profile)
+- Hover sur les images 
 - Possiblité de Favoris
 - 5/10 % de marges
-- Les images affichées auront 2 tailles prédéfinis, pour la fonction portrait ou paysage.
+
 
 
 
@@ -70,12 +70,14 @@
  - Connexion.php (Fait) Create
  - Deconnexion.php (Fait)
  - Login.php (Fait)
- - Inscription.php ( A faire)
+ - Inscription.php (Fait)
  - AddImg.php (Fait) Create Read
  - Delete.php (A Faire) Delete
  - AddPfp.php (A faire) Update
  - AddFav.php (A Faire )
  - RemoveFav.php (A Faire)
+ - Update.php (Fait)
+ 
  
  
  ## Site Map 
